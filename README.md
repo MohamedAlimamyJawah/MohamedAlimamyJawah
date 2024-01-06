@@ -1,6 +1,6 @@
 ## About Me
 
- Hi there! I'm Mohamed, a passionate data enthusiast and cloud aficionado. My journey in the world of technology has led me to explore the fascinating realms of data science and cloud computing. 🌐🔍
+ Hi there! I'm Mohamed Alimamy Jawah, a passionate data enthusiast and cloud aficionado. My journey in the world of technology has led me to explore the fascinating realms of data science and cloud computing. 
  I thrive on extracting insights from messy data, unraveling patterns, and building predictive models. Let's crunch some numbers together!
  I'm currently diving deep into cloud platforms, learning the ropes of deploying scalable applications and managing infrastructure. 🚀
 
